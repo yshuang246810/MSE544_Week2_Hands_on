@@ -91,7 +91,7 @@ To train the CNN on Hyak, you will need to copy the code from the Jupyter notebo
 
 - Create your own folder under **/gscratch/scrubbed/[Youruwnetid]** on Hyak.
   - Change [Youruwnetid] to your own uw-net-id.
-- Copy the following files `marco.py`, `script_env` ,`script`,`evaluate.py`, `marcodata.tar.gz` from `/mmfs1/home/yshuang/gscratch/stf/yshuang/week2` to your folder on Hyak. ** Be aware there are several files needed to be modify before you can run it on Hyak**
+- Copy the following files `marco.py`, `script_env` ,`script`,`evaluate.py`, `marcodata.tar.gz` from `/gscratch/stf/yshuang/week2` to your folder on Hyak. ** Be aware there are several files needed to be modify before you can run it on Hyak**
 
 `cp /mmfs1/home/yshuang/gscratch/stf/yshuang/week2/script /gscratch/scrubbed/[Youruwnetid]/` 
 
